@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "broccoli-lint-eslint": "1.1.1",
-    "ember-cli-babel": "^5.1.5",
+    "ember-cli-babel": "^6.0.0",
     "js-string-escape": "^1.0.0"
   },
   "keywords": [
